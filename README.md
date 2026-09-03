@@ -1,12 +1,4 @@
-html
-Best Practices for Data Science Portfolios
-Code Quality
-Comment your code: Explain complex logic and analytical decisions
-Use meaningful variable names: customer_churn_rate not ccr
-Structure your notebooks: Use markdown cells to explain your thought process
-Include error handling: Show you can write robust, production-ready code
-Data Handling
-Anonymise sensitive data: Never commit real customer data or confidential information
+
 <!DOCTYPE html>
 <html>
 <head>
